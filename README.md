@@ -1,4 +1,4 @@
-# Real Time Bus Tracker
+# Eye exercise: "Retail Website with Dynamic Cursor Control"
 
 ## Description of the project:
 This repository showcases a basic website with an added feature of eye movement in response to mouse movements. I employed Bootstrap templates for this project.
